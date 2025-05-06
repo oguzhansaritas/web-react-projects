@@ -33,14 +33,14 @@
 ---
 ### Guess the Pairs of Cards Game
 ![Add Recipe](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/magic.jpg)
-![Add Recipe](https://github.com/coguzhansaritas/web-react-projects/blob/main/images/magic-match.jpg)
+![Add Recipe](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/magic-match.jpg)
 
 ---
 ### Task Management App
 - Sign up
-![Sign up](https://github.com/coguzhansaritas/web-react-projects/blob/main/images/signup.jpg)
+![Sign up](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/signup.jpg)
 - Login
-![Login](https://github.com/coguzhansaritas/web-react-projects/blob/main/images/login.jpg)
+![Login](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/login.jpg)
 - New Project
 ![New Project](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/newProject.jpg)
 - Dashboard
@@ -54,6 +54,6 @@
 - Sign up
 ![Sign up](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/myMoneysignup.jpg)
 - Login
-![Login](https://github.com/coguzhansaritas/web-react-projects/blob/main/images/myMoneylogin.jpg)
+![Login](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/myMoneylogin.jpg)
 - Add a Transaction
 ![add](https://github.com/oguzhansaritas/web-react-projects/blob/main/images/myMoney.jpg)
