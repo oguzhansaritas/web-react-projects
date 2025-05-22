@@ -81,7 +81,7 @@ Shows how to integrate **Mapbox GL JS** into a React component-based structure.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-react-projects.git
+   git clone https://github.com/oguzhansaritas/web-react-projects.git
    ```
 
 2. Navigate to a project:
@@ -105,8 +105,8 @@ Shows how to integrate **Mapbox GL JS** into a React component-based structure.
 
 ## 📬 Contact
 
-Created by **[Your Name]**  
-Contact: [your.email@example.com]
+Created by **OĞUZHAN SARITAŞ**  
+Contact: info@oguzhansaritas.com
 
 ---
 
